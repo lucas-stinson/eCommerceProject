@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import Price from "./Price";
 import Rating from "./Rating";
 
+
 const Book = ({ book }) => {
   const [img, setImg] = useState();
 
